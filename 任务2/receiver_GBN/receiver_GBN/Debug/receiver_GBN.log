@@ -1,0 +1,7 @@
+﻿  receiver_GBN.cpp
+d:\课程大三上\计算机网络\实验\实验3\任务2\gbn\receiver_gbn\receiver_gbn\receiver_gbn.cpp(128): warning C4309: “=”: 截断常量值
+d:\课程大三上\计算机网络\实验\实验3\任务2\gbn\receiver_gbn\receiver_gbn\receiver_gbn.cpp(218): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+d:\课程大三上\计算机网络\实验\实验3\任务2\gbn\receiver_gbn\receiver_gbn\receiver_gbn.cpp(237): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+d:\课程大三上\计算机网络\实验\实验3\任务2\gbn\receiver_gbn\receiver_gbn\receiver_gbn.cpp(98): warning C4101: “b”: 未引用的局部变量
+d:\课程大三上\计算机网络\实验\实验3\任务2\gbn\receiver_gbn\receiver_gbn\receiver_gbn.cpp(99): warning C4101: “u_code”: 未引用的局部变量
+  receiver_GBN.vcxproj -> D:\课程大三上\计算机网络\实验\实验3\任务2\GBN\receiver_GBN\Debug\receiver_GBN.exe

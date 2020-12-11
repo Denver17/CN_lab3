@@ -1,0 +1,5 @@
+﻿  sender_GBN.cpp
+d:\课程大三上\计算机网络\实验\实验3\任务2\gbn\sender_gbn\sender_gbn\sender_gbn.cpp(115): warning C4309: “=”: 截断常量值
+d:\课程大三上\计算机网络\实验\实验3\任务2\gbn\sender_gbn\sender_gbn\sender_gbn.cpp(242): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+d:\课程大三上\计算机网络\实验\实验3\任务2\gbn\sender_gbn\sender_gbn\sender_gbn.cpp(97): warning C4101: “recvSize”: 未引用的局部变量
+  sender_GBN.vcxproj -> D:\课程大三上\计算机网络\实验\实验3\任务2\GBN\sender_GBN\Debug\sender_GBN.exe
